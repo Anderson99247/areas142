@@ -41,7 +41,7 @@ public class TesteCalcularArea {
     // DDT -> teste de unidade data-driven que ler uma lista de valores fornecidas no próprio script.
 
     @ParameterizedTest // @ParameterizedTest do JUnit 5 junto com 
-    @CsvSource({      //  @CsvSource, permite testar vários valores dentro do próprio código.
+    @CsvSource({      //  @CsvSource, permite testar varios valores dentro do proprio codigo.
         "7, 3, 21",
         "10, 5, 50",
         "15, 7, 105",

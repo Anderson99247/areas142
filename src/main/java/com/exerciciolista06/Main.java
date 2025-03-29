@@ -9,7 +9,7 @@ public class Main {
 
     //  2.2 Métodos e funções
     public static void main(String[] args) {
-        System.out.println("Olá Mundo!");      
+        System.out.println("Ola Mundo!");      
 
     }
 
